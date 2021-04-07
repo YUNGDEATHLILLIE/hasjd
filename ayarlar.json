@@ -1,0 +1,37 @@
+{
+    "botSettings": {
+        "botOwners": ["1. SAHİP", "2. SAHİP (İSTİYORSANIZ SİLİN)"],
+        "botPrefix": "PREFIX",
+        "botToken": "BOT TOKEN",
+        "botSes": "BOT SES KANALI",
+        "botUser": {
+            "botPresence": "BOT AÇIKLAMASI",
+            "botPresenceType": "PLAYING/WATCHING/LISTENING (3ÜNDEN BİRİNİ GİRİN)",
+            "botStatus": "dnd"
+        }
+    },
+    "guildSettings": {
+        "guildID": "BOTUN ÇALIŞTIĞI SUNUCU ID'SI",
+        "guildTag": "SUNUCU TAGI",
+        "isimOncesiTag": "KAYITTA ISMIN BAŞINA KONAN TAG",
+        "guildDiscriminator": "ETIKET TAGI VARSA ETIKET TAGI YOKSA 0000"
+    },
+    "logChannels": {
+        "welcome": "HOŞGELDİN KANAL ID",
+        "autoRoleLog": "OTOROL LOG KANALI",
+        "tagLog": "TAG LOG KANALI",
+        "banLog": "BAN LOG KANALI",
+        "supheliLog": "SUPHELİ HESAP LOG"
+    },
+    "guildRoles": {
+        "autoRole": ["KAYITSIZ ROL 1", "KAYITSIZ ROL 2 (İSTİYORSANIZ SİLİN)"],
+        "supheliRole": "SUPHELİ ROL ID",
+        "tagRol": "EKIP ROL ID",
+        "erkekRoles": ["ERKEKROL1", "ERKEK ROL2 (İSTİYORSANIZ SİLİN)"],
+        "kizRoles": ["KIZ ROL1", "KIZ ROL2 (İSTİYORSANIZ SİLİN)"],
+        "vipRole": "VIP ROL",
+        "registerH": "KAYIT SORUMLUSU ROL",
+        "banH": "BAN HAMMER ROL"
+
+    }
+}
